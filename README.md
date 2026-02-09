@@ -1,4 +1,5 @@
-# Hi 👋 I am Kaveesha Senarathne
+<h1 align="center"> Hi 👋 I am Kaveesha Senarathne </h1>
+
 ## Welcome to Personal_Repo
 
 - 🔭 I’m currently studying at the ICBT Kandy campus.
