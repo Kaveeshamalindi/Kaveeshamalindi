@@ -1,4 +1,5 @@
-## Hi there 👋 Welcome to Personal_Repo
+# Hi 👋 I am Kaveesha Senarathne
+## Welcome to Personal_Repo
 
 - 🔭 I’m currently studying at the ICBT Kandy campus.
 - 🌱 I’m currently learning software engineering.
