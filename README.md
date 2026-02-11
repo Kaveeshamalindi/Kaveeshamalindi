@@ -1,3 +1,5 @@
+<!------------------------- My Personal Repo ------------------------>
+
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Kaveesha Senarathne </h1>
 
 <p align="center">
@@ -13,6 +15,8 @@
 <p align="center">
   <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </p>
+
+<!------------------------- About me Section ------------------------>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -42,6 +46,9 @@
 <br>
 
 ---
+
+<!------------------------- Languages & Tools Section ------------------------>
+
 <br>
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -55,9 +62,12 @@
 <br>
 
 ---
+
+<!------------------------- Github status Section ------------------------>
+
 <br>
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Github status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> </h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=kaveeshamalindi&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kaveeshamalindi)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kaveeshamalindi&theme=material-palenight)](https://github.com/kaveeshamalindi)
@@ -65,6 +75,9 @@
 <br>
 
 ---
+
+<!------------------------- Connect with me ------------------------>
+
 <br>
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Connect with me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
@@ -80,8 +93,11 @@
 <br>
 
 ---
+
+<!------------------------- Fun Zone ------------------------>
+
 <br>
-<h2 align="center"> <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>  Fun fact <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> </h2> <br>
+<h2 align="center"> <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>  Fun Zone <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img> </h2> <br>
 
 <div align="center">
   
