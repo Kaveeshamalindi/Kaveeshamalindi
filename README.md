@@ -17,19 +17,28 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
+<!-- Image first so it floats to the right -->
+<img align="right"
+     src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"
+     width="380" alt="Working on laptop illustration" />
+
+<div style="text-align: justify;">
+
 - 🔭 I’m currently studying at the ICBT Kandy campus.
 - 🌱 I’m currently an undergraduate pursuing a Bachelor of Science (Hons) in Software Engineering.
 - 👯 I’m looking to collaborate on software development projects, web apps, and beginner-friendly open-source projects.
 - 🤔 I’m looking for help with programming concepts, algorithms, AI, and leveling up my coding skills.
 - 😄 Pronouns: She/Her
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+</div>
 
-<br>
+<br clear="right" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&height=30&lines=My+Motto;Continuous+Learning" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?color=FF0000&height=30&lines=My+Motto;Continuous+Learning"
+    alt="Continuous Learning typing banner" />
 </p>
-  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
