@@ -21,11 +21,13 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
-- 🔭 I’m currently studying at the ICBT Kandy campus.
-- 🌱 I’m currently an undergraduate pursuing a Bachelor of Science (Hons) in Software Engineering.
-- 👯 I’m looking to collaborate on software development projects, web apps, and beginner-friendly open-source projects.
-- 🤔 I’m looking for help with programming concepts, algorithms, AI, and leveling up my coding skills.
-- 😄 Pronouns: She/Her<p>
+<pre>
+🔭 I’m currently studying at the ICBT Kandy campus.
+🌱 I’m currently an undergraduate pursuing a Bachelor of Science (Hons) in Software Engineering.
+👯 I’m looking to collaborate on software development projects, web apps, and beginner-friendly open-source projects.
+🤔 I’m looking for help with programming concepts, algorithms, AI, and leveling up my coding skills.
+😄 Pronouns: She/Her<p>
+</pre>pre>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&height=30&lines=My+Motto;Continuous+Learning" />
