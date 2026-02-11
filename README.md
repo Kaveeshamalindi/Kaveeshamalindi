@@ -46,4 +46,12 @@
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Fun fact <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 I love mixing creativity with logic in coding 
 
+## 🐍 A Snake Eating my Contributions Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kaveeshamalindi/Kaveeshamalindi/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/Kaveeshamalindi/Kaveeshamalindi/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
+</picture>
+
+
 
