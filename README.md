@@ -48,10 +48,10 @@ I love mixing creativity with logic in coding
 
 ## 🐍 A Snake Eating my Contributions Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kaveeshamalindi/Kaveeshamalindi/blob/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://github.com/Kaveeshamalindi/Kaveeshamalindi/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
-</picture>
+<p align="center">
+  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
 
 
 
