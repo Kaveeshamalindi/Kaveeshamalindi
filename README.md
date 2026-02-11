@@ -49,7 +49,7 @@ I love mixing creativity with logic in coding
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/Kaveeshamalindi/Kaveeshamalindi/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 
