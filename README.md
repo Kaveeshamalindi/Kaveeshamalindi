@@ -17,18 +17,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-</div>
+- 🔭 I’m currently studying at the ICBT Kandy campus.
+- 🌱 I’m currently an undergraduate pursuing a Bachelor of Science (Hons) in Software Engineering.
+- 👯 I’m looking to collaborate on software development projects, web apps, and beginner-friendly open-source projects.
+- 🤔 I’m looking for help with programming concepts, algorithms, AI, and leveling up my coding skills.
+- 😄 Pronouns: She/Her
 
-<pre>
-🔭 I’m currently studying at the ICBT Kandy campus.
-🌱 I’m currently an undergraduate pursuing a Bachelor of Science (Hons) in Software Engineering.
-👯 I’m looking to collaborate on software development projects, web apps, and beginner-friendly open-source projects.
-🤔 I’m looking for help with programming concepts, algorithms, AI, and leveling up my coding skills.
-😄 Pronouns: She/Her<p>
-</pre>pre>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 
+<br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&height=30&lines=My+Motto;Continuous+Learning" />
 </p>
@@ -76,6 +73,10 @@ I love mixing creativity with logic in coding
 <p align="center">
 <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 </p>
+
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
 
 
 
