@@ -43,10 +43,15 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
+---
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=kaveeshamalindi&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kaveeshamalindi)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=kaveeshamalindi&theme=material-palenight)](https://github.com/kaveeshamalindi)
+</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Connect with me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+---
 
 <p align="center">
 <a href="https://linkedin.com/in/kaveeshasenarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveeshasenarathne" height="30" width="40" /></a>
