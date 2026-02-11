@@ -28,11 +28,11 @@
 
 <div style="text-align: justify;">
 
-- 📝 I’m currently studying at the ICBT Kandy campus.
-- 🔍 I’m currently an undergraduate pursuing a Bachelor of Science (Hons) in Software Engineering.
-- 👥 I’m looking to collaborate on software development projects, web apps, and beginner-friendly open-source projects.
-- 💥 I’m looking for help with programming concepts, algorithms, AI, and leveling up my coding skills.
-- 😄 Pronouns: She/Her
+📝 I’m currently studying at the ICBT Kandy campus. <br> <br>
+🔍 I’m working toward my Bachelor of Science (Hons) degree in Software Engineering. <br> <br>
+👥 I’m looking to collaborate on software development projects, web apps, and beginner-friendly open-source projects. <br> <br>
+💥 I’m also seeking guidance on programming concepts, algorithms, AI, and ways to advance my coding skills. <br> <br>
+😄 Pronouns: She/Her <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
 
 </div>
 
@@ -79,7 +79,7 @@
 <!------------------------- Connect with me ------------------------>
 
 <br>
-<h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Connect with me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> Connect with me <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> </h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/kaveeshasenarathne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaveeshasenarathne" height="30" width="40" /></a>
