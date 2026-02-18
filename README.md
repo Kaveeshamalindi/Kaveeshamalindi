@@ -66,15 +66,14 @@
 <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
 <br>
- 
-<!-- </a>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveeshamalindi&hide=php&theme=chartreuse-dark" /> 
-<br><br>
-<a href="https://github.com/Kaveeshamalindi" style="display:flex; flex-direction:column; align-items:space-between; ">
-  <img title=Kaveeshamalindi src="https://github-readme-stats.vercel.app/api?username=Kaveeshamalindi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveeshamalindi&hide=php&theme=chartreuse-dark" alt="Kaveeshamalindi" />
-</a>
--->
+
+<h2 align="center"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+  GitHub Status 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+</h2>
+
+<br>
 
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=Kaveeshamalindi" alt="GitHub Insights" />
@@ -82,12 +81,7 @@
 
 <br><br>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehansulakshana" alt="shehansulakshana" /></a> </p> -->
-
-</br>
 <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
-
-</br>
 
 ---
 
