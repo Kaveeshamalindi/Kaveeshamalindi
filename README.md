@@ -61,18 +61,33 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 <br>
 
----
-
 <!------------------------- Github status Section ------------------------>
 
-<br>
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Github status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> </h2> 
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 
-[![](https://github-readme-stats.vercel.app/api?username=kaveeshamalindi&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kaveeshamalindi)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=kaveeshamalindi&theme=material-palenight)](https://github.com/kaveeshamalindi)
-</div>
 <br>
+ 
+<!-- </a>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveeshamalindi&hide=php&theme=chartreuse-dark" /> 
+<br><br>
+<a href="https://github.com/Kaveeshamalindi" style="display:flex; flex-direction:column; align-items:space-between; ">
+  <img title=Kaveeshamalindi src="https://github-readme-stats.vercel.app/api?username=Kaveeshamalindi&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaveeshamalindi&hide=php&theme=chartreuse-dark" alt="Kaveeshamalindi" />
+</a>
+-->
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Kaveeshamalindi" alt="GitHub Insights" />
+</p>
+
+<br><br>
+
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shehansulakshana" alt="shehansulakshana" /></a> </p> -->
+
+</br>
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
+
+</br>
 
 ---
 
