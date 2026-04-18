@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,html,css,js,mysql,git,github,figma,photoshop,md,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,html,css,js,mysql,git,github,postman,vscode,md,figma,photoshop&perline=14" />
   </a>
 </p>
 
