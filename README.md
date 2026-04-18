@@ -50,12 +50,15 @@
   <strong>🗓️ Joined: 2024</strong>
 </p>
 
+<br>
 
 ---
 
 <!------------------------- Languages & Tools Section ------------------------>
 
 <h2 align="center"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Languages & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -88,6 +91,8 @@
 <!------------------------- Connect with me ------------------------>
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> Connect with me <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50"> </h2>
+
+<br>
 
 <p align="center">
   <a href="https://linkedin.com/in/kaveeshasenarathne"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
