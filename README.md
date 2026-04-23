@@ -62,8 +62,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,html,css,js,mysql,git,github,postman,vscode,md,figma,photoshop&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,html,css,js,mysql,flask,git,github,postman,vscode,md,wordpress,figma,photoshop&perline=14" />
   </a>
+</p>
+
+<p align="center">
+  <!-- VMware -->
+  <img src="https://cdn.simpleicons.org/vmware" height="48" style="margin: 5px;" alt="VMware"/> &nbsp;&nbsp;&nbsp;
+
+  <!-- Cisco -->
+  <img src="https://cdn.simpleicons.org/cisco" height="48" style="margin: 5px;" alt="Cisco"/>
 </p>
 
 <br>
