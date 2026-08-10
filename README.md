@@ -31,7 +31,7 @@
 📝 I’m currently studying at the ICBT Kandy campus. <br> <br>
 🔍 I’m working toward my Bachelor of Science (Hons) degree in Software Engineering. <br> <br>
 👥 I’m looking to collaborate on software development projects, web apps, and beginner-friendly open-source projects. <br> <br>
-💥 I’m also seeking guidance on programming concepts, algorithms, AI, and ways to advance my coding skills. <br> <br>
+💥 I’m also seeking guidance on programming concepts, algorithms, AI/ML, and ways to advance my coding skills. <br> <br>
 😄 Pronouns: She/Her <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
 
 </div>
