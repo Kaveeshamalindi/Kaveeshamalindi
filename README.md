@@ -1,13 +1,15 @@
 <!------------------------- My Personal Repo ------------------------>
 
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Kaveesha Senarathne </h1>
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Kaveesha Senarathne </h1> 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=28&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+Personal+Repo;Software+Engineering+Undergraduate;"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaveeshamalindi&color=blue" alt="watching_count" />
+  <img src="https://komarev.com/ghpvc/?username=kaveeshamalindi&color=blue" alt="watching_count" /> 
+  <Br>
+  <img src="https://img.shields.io/github/followers/kaveeshamalindi?label=Follow&style=social" /> </p>
 </p>
 
 <br>
@@ -15,6 +17,8 @@
 <p align="center">
   <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </p>
+
+<br>
 
 <!------------------------- About me Section ------------------------>
 
