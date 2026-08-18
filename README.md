@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/kaveeshamalindi?label=Follow&style=social" /> </p>
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
   <img width="55%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
