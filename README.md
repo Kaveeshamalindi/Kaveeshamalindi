@@ -133,5 +133,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+### Thanks for visiting my profile!
+
+If you like my work, consider giving a ⭐ to the repositories you find useful.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1720,100:1155CC&height=110&section=footer"/>
+
+
+
 
 
