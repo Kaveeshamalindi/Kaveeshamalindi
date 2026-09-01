@@ -32,10 +32,14 @@
 
 <div style="text-align: justify;">
 
-📝 I’m currently studying at the ICBT Kandy campus. <br> <br>
-🔍 I’m working toward my Bachelor of Science (Hons) degree in Software Engineering. <br> <br>
-👥 I’m looking to collaborate on software development projects, web apps, and beginner-friendly open-source projects. <br> <br>
-💥 I’m also seeking guidance on programming concepts, algorithms, AI/ML, and ways to advance my coding skills. <br> <br>
+📝 I’m currently studying at the **ICBT Kandy Campus**. <br> <br>
+🔍 I’m working toward my **Bachelor of Science (Hons) degree in Software Engineering**. <br> <br>
+👥 I’m looking to collaborate on **software development projects**, **web apps**, and **beginner-friendly open-source projects**. <br> <br>
+🚀 Exploring <b>DevOps, Cloud Computing (AWS & Azure), Docker</b> & <b>Kubernetes</b>.<br><br>
+🤖 Learning <b>AI/ML, MLOps, Deep Learning, NLP</b> & <b>Mathematics for AI</b>.<br><br>
+🧠 Continuously improving my <b>Programming, Problem-Solving, Data Structures & Algorithms</b> skills and exploring effective ways to become a better Software Engineer.<br><br>
+💡 Looking for guidance, collaboration, and opportunities to learn through <b>real-world projects</b> and <b>open-source contributions</b>.<br><br>
+🤝 Always open to <b>learning, sharing knowledge, collaborating</b>, and building meaningful projects with others.<br><br>
 😄 Pronouns: She/Her <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
 
 </div>
