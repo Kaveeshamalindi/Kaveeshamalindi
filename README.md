@@ -133,68 +133,21 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=FFFFFF&background=0D1B2A&center=true&vCenter=true&width=750&lines=%3E+I+love+mixing+creativity+with+logic+in+coding...!)
 
+&nbsp;&nbsp;
+
 <!-------------------- Web Sites for Enjoy --------------------->
 
+<p align="center">
 
-
-<br>
-
-<a href="YOUR_SOLAR_SYSTEM_WEBSITE_URL" target="_blank">
-  <img src="https://img.shields.io/badge/🚀%20PLAY%20NOW-Explore%20Solar%20System-0D1B2A?style=for-the-badge&logo=rocket&logoColor=white" alt="Play Enjoy My Solar System"/>
+<a href="https://kaveeshamalindi.github.io/COSMOS-3D-Solar-System-Explorer/" target="_blank">
+<img src="https://img.shields.io/badge/☀️%20COSMOS%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Solar System"/>
 </a>
 
-<br><br>
-
-🌎 
-
-</td>
-
-<td align="center" width="50%">
-
-<h2>🧙‍♂️ How Grad in Harry Potter</h2>
-
-<p>
-  ✨ <b>Enter the Wizarding World</b><br>
-  Step into a magical Harry Potter-inspired experience! 🪄⚡🏰
-</p>
-
-<br>
-
-<a href="YOUR_HOWGRAD_WEBSITE_URL" target="_blank">
-  <img src="https://img.shields.io/badge/✨%20PLAY%20NOW-Enter%20the%20Magic-5C2D91?style=for-the-badge&logo=harrypotter&logoColor=white" alt="Play How Grad in Harry Potter"/>
+<a href="https://kaveeshamalindi.github.io/hogwarts-explorer/" target="_blank">
+<img src="https://img.shields.io/badge/🧙‍♂️%20Hogwarts%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="How Grad in Harry Potter"/>
 </a>
 
-<br><br>
-
-🪄 ⚡ 🧙‍♂️ 🏰 ✨
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-### 🚀 Explore My Creations
-
-<p>
-  <b>☀️ Space Explorer</b> &nbsp; • &nbsp;
-  <b>🧙‍♂️ Magical Adventure</b>
 </p>
-
-<p>
-  <i>Built with curiosity, creativity & a little bit of ✨ magic.</i>
-</p>
-
-<br>
-
-> 💡 **Click a project above and start exploring!**
-
-</div>
-
-
 
 <!------------------------- FOOTER ------------------------>
 
