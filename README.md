@@ -139,12 +139,12 @@
 
 <p align="center">
 
-<a href="https://kaveeshamalindi.github.io/COSMOS-3D-Solar-System-Explorer/" target="_blank">
-<img src="https://img.shields.io/badge/☀️%20COSMOS%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Solar System"/>
-</a>
-
 <a href="https://kaveeshamalindi.github.io/hogwarts-explorer/" target="_blank">
 <img src="https://img.shields.io/badge/🧙‍♂️%20Hogwarts%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="How Grad in Harry Potter"/>
+</a>
+
+<a href="https://kaveeshamalindi.github.io/COSMOS-3D-Solar-System-Explorer/" target="_blank">
+<img src="https://img.shields.io/badge/☀️%20COSMOS%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Solar System"/>
 </a>
 
 </p>
