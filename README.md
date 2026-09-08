@@ -138,7 +138,7 @@
 <!-------------------- Web Sites for Enjoy --------------------->
 
 <a href="https://ai-learning-101.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/☀️%20Chat%20With%20AI-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Chat with AI"/>
+<img src="https://img.shields.io/badge/🤖%20Chat%20With%20AI-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Chat with AI"/>
 </a>
 
 <p align="center">
