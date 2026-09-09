@@ -151,6 +151,10 @@
 <img src="https://img.shields.io/badge/☀️%20COSMOS%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Solar System"/>
 </a>
 
+<a href="https://kaveeshamalindi.github.io/Web-Based-Smart-Calculator/" target="_blank">
+<img src="https://img.shields.io/badge/🧮%20CalcVerse-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Solar System"/>
+</a>
+
 </p>
 
 &nbsp;
