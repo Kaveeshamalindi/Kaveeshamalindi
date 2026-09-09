@@ -137,25 +137,22 @@
 
 <!-------------------- Web Sites for Enjoy --------------------->
 
-<a href="https://ai-learning-101.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🤖%20Chat%20With%20AI-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Chat with AI"/>
-</a>
-
 <p align="center">
 
-<a href="https://kaveeshamalindi.github.io/hogwarts-explorer/" target="_blank">
-<img src="https://img.shields.io/badge/🧙‍♂️%20Hogwarts%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="How Grad in Harry Potter"/>
-</a>
-
-<a href="https://kaveeshamalindi.github.io/COSMOS-3D-Solar-System-Explorer/" target="_blank">
-<img src="https://img.shields.io/badge/☀️%20COSMOS%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Solar System"/>
-</a>
-
-<a href="https://kaveeshamalindi.github.io/Web-Based-Smart-Calculator/" target="_blank">
-<img src="https://img.shields.io/badge/🧮%20CalcVerse-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Solar System"/>
-</a>
+<table>
+<tr>
+<td align="center" width="50%"><a href="https://ai-learning-101.vercel.app/"><img src="https://img.shields.io/badge/🤖%20Chat%20With%20AI-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Chat With AI"></a></td>
+<td align="center" width="50%"><a href="https://kaveeshamalindi.github.io/hogwarts-explorer/"><img src="https://img.shields.io/badge/🧙‍♂️%20Hogwarts%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="Hogwarts Explorer"></a></td>
+</tr>
+<tr>
+<td align="center" width="50%"><a href="https://kaveeshamalindi.github.io/COSMOS-3D-Solar-System-Explorer/"><img src="https://img.shields.io/badge/☀️%20COSMOS%20Explorer-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="COSMOS Explorer"></a></td>
+<td align="center" width="50%"><a href="https://kaveeshamalindi.github.io/Web-Based-Smart-Calculator/"><img src="https://img.shields.io/badge/🧮%20CalcVerse-PLAY-E91E63?style=for-the-badge&labelColor=000000" alt="CalcVerse"></a></td>
+</tr>
+</table>
 
 </p>
+
+<br>
 
 &nbsp;
 
