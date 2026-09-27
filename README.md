@@ -37,7 +37,7 @@
 👥 I’m looking to collaborate on **software development projects**, **web apps**, and **beginner-friendly open-source projects**. <br> <br>
 🚀 Exploring <b>DevOps, Cloud Computing (AWS & Azure), Docker</b> & <b>Kubernetes</b>.<br><br>
 🤖 Learning <b>AI/ML, MLOps, Deep Learning, NLP</b> & <b>Mathematics for AI</b>.<br><br>
-🧠 Continuously improving my <b>Programming, Problem-Solving, Data Structures & Algorithms</b> skills and exploring effective ways to become a better Software Engineer.<br><br>
+🧠 Continuously improving my <b>Programming, Problem-Solving, DSA</b> skills and exploring effective ways to become a better Software Engineer.<br><br>
 💡 Looking for guidance, collaboration, and opportunities to learn through <b>real-world projects</b> and <b>open-source contributions</b>.<br><br>
 🤝 Always open to <b>learning, sharing knowledge, collaborating</b>, and building meaningful projects with others.<br><br>
 😄 Pronouns: She/Her <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
