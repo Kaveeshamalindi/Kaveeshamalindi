@@ -167,11 +167,11 @@
 
 **If you like my work, consider giving a ⭐ to the repositories you find useful.**
 
+<br>
+
 <p align="center">
   <img src="https://media.tenor.com/zBZnGatBkgAAAAAi/cute-girl.gif" width="250" alt="hi" />
 </p>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
