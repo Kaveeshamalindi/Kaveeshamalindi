@@ -34,7 +34,7 @@
 
 <div style="text-align: justify;">
 
-📝 I’m currently following my **Bachelor of Science (Hons) degree in Software Engineering** at the **ICBT Kandy Campus**. <br> <br>
+📝 I’m currently following my **Bachelor of Science (Hons) in Software Engineering Degree** at the **ICBT Kandy Campus**. <br> <br>
 👥 I’m looking to collaborate on **software development projects**, **web apps**, and **beginner-friendly open-source projects**. <br> <br>
 🚀 Exploring <b>DevOps, Cloud Computing (AWS & Azure), Docker</b> & <b>Kubernetes</b>.<br><br>
 🤖 Learning <b>AI/ML, MLOps, Deep Learning, NLP</b> & <b>Mathematics for AI</b>.<br><br>
