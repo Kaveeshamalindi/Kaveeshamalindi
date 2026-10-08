@@ -100,7 +100,23 @@
 <br>
 
 <p align="center">
+  <hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
+
+<h2 align="center"> 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+  GitHub Status 
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> 
+</h2>
+
+<br>
+
+<p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=Kaveeshamalindi" alt="GitHub Insights" />
+</p>
+
+<br><br>
+
+<hr style="height:2px;border-width:0;color:rgb(0, 0, 0);background-color:rgb(0, 0, 0)">
 </p>
 
 <br><br>
@@ -134,7 +150,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=FFFFFF&background=0D1B2A&center=true&vCenter=true&width=750&lines=%3E+I+love+mixing+creativity+with+logic+in+coding...!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=FFFFFF&background=E68FAC&center=true&vCenter=true&width=750&lines=%3E+I+love+mixing+creativity+with+logic+in+coding...!)
 
 &nbsp;&nbsp;
 
