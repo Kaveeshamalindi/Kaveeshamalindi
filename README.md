@@ -51,8 +51,10 @@
   <img
     src="https://readme-typing-svg.herokuapp.com?color=FF0000&height=30&lines=My+Motto;Continuous+Learning"
     alt="Continuous Learning typing banner" />
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="160" /> 
 </p>
-<br>
+
+<br><br>
 
 <p align="center">
   <strong>📍 Kandy, Sri Lanka</strong> | 
