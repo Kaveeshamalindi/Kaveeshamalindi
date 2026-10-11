@@ -100,7 +100,7 @@
 <br>
 
 <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Kaveeshamalindi&theme=github_light" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=Kaveeshamalindi&theme=github_light" alt="Refresh the Browser" />
 </p>
 
 <br><br>
