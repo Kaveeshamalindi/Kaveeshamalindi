@@ -73,7 +73,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cpp,html,css,js,mysql,flask,git,github,postman,vscode,md,wordpress,figma,photoshop&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,py,cpp,html,css,js,arduino,mysql,flask,git,github,postman,vscode,md,wordpress,figma,photoshop&perline=14" />
   </a>
 </p>
 
