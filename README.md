@@ -36,7 +36,7 @@
 
 📝 I’m currently following my **Bachelor of Science (Hons) in Software Engineering Degree** at the **ICBT Kandy Campus**. <br> <br>
 🎯 My career goal is to become an **AI Engineer**, building intelligent solutions that solve real-world problems. <br> <br>
-👥 I’m looking to collaborate on **software development projects**, **web apps**, and **beginner-friendly open-source projects**. <br> <br>
+👥 I’m looking to collaborate on **software development projects** and **beginner-friendly open-source projects**. <br> <br>
 🚀 Exploring <b>DevOps, Cloud Computing (AWS & Azure), Docker</b> & <b>Kubernetes</b>.<br><br>
 🤖 Learning <b>AI/ML, MLOps, Deep Learning, NLP</b> & <b>Mathematics for AI</b>.<br><br>
 🧠 Continuously improving my **Programming**, **Problem-Solving**, and **DSA** skills while contributing to technical innovations that benefit the community.<br><br>
